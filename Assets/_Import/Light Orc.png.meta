@@ -1,0 +1,2143 @@
+fileFormatVersion: 2
+guid: 0254257f62f21de44bc3527cf3fcab09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 447456171514682491
+    second: Light Orc_0
+  - first:
+      213: 3002777149134224124
+    second: Light Orc_1
+  - first:
+      213: -290287655738050970
+    second: Light Orc_2
+  - first:
+      213: 7909919319970544291
+    second: Light Orc_3
+  - first:
+      213: -147834871561029334
+    second: Light Orc_4
+  - first:
+      213: -1288109090701969250
+    second: Light Orc_5
+  - first:
+      213: -2626472030565831698
+    second: Light Orc_6
+  - first:
+      213: 8797533395501844517
+    second: Light Orc_7
+  - first:
+      213: 7192552778469328698
+    second: Light Orc_8
+  - first:
+      213: 3218163217757053634
+    second: Light Orc_9
+  - first:
+      213: -8266689218892371499
+    second: Light Orc_10
+  - first:
+      213: 7171948286498239044
+    second: Light Orc_11
+  - first:
+      213: -5193842023186686773
+    second: Light Orc_12
+  - first:
+      213: 3877512377797635069
+    second: Light Orc_13
+  - first:
+      213: -955179578274671758
+    second: Light Orc_14
+  - first:
+      213: 2514266641669379560
+    second: Light Orc_15
+  - first:
+      213: 5654500895397574711
+    second: Light Orc_16
+  - first:
+      213: 6288260389994969730
+    second: Light Orc_17
+  - first:
+      213: 1348595516646750968
+    second: Light Orc_18
+  - first:
+      213: -541409973893752236
+    second: Light Orc_19
+  - first:
+      213: 8839572788121200604
+    second: Light Orc_20
+  - first:
+      213: 7901704883656032600
+    second: Light Orc_23
+  - first:
+      213: 6303706860186046237
+    second: Light Orc_24
+  - first:
+      213: 6130881342007815778
+    second: Light Orc_25
+  - first:
+      213: 6598184576648028313
+    second: Light Orc_26
+  - first:
+      213: 7100492299312564268
+    second: Light Orc_27
+  - first:
+      213: 3995377165968249639
+    second: Light Orc_28
+  - first:
+      213: -354243613912689420
+    second: Light Orc_29
+  - first:
+      213: -202025129826787034
+    second: Light Orc_30
+  - first:
+      213: -5759016946672974330
+    second: Light Orc_31
+  - first:
+      213: -5273376247155464616
+    second: Light Orc_32
+  - first:
+      213: 8309290756820594446
+    second: Light Orc_33
+  - first:
+      213: -6761192546175967564
+    second: Light Orc_34
+  - first:
+      213: 6784187926135001454
+    second: Light Orc_35
+  - first:
+      213: -5137799837979503816
+    second: Light Orc_36
+  - first:
+      213: -442542564994214594
+    second: Light Orc_37
+  - first:
+      213: 4246864164984367457
+    second: Light Orc_38
+  - first:
+      213: -1057497989849816537
+    second: Light Orc_39
+  - first:
+      213: -258352380308765101
+    second: Light Orc_40
+  - first:
+      213: -6387168237053620351
+    second: Light Orc_41
+  - first:
+      213: 6007313466865455663
+    second: Light Orc_42
+  - first:
+      213: 9016883669232756251
+    second: Light Orc_43
+  - first:
+      213: -4138251993979437658
+    second: Light Orc_44
+  - first:
+      213: 1928571597520535559
+    second: Light Orc_45
+  - first:
+      213: 8287675004892081577
+    second: Light Orc_46
+  - first:
+      213: 1900802441717778239
+    second: Light Orc_47
+  - first:
+      213: 4042301402107589298
+    second: Light Orc_48
+  - first:
+      213: -508651635389206094
+    second: Light Orc_49
+  - first:
+      213: 2898227455691558670
+    second: Light Orc_50
+  - first:
+      213: 1267370991223000271
+    second: Light Orc_51
+  - first:
+      213: 5503138056047378474
+    second: Light Orc_52
+  - first:
+      213: 4736973776381815942
+    second: Light Orc_53
+  - first:
+      213: 7224877200732776347
+    second: Light Orc_54
+  - first:
+      213: -4506416332619480529
+    second: Light Orc_55
+  - first:
+      213: 7643363983731208983
+    second: Light Orc_56
+  - first:
+      213: -5940257812270265466
+    second: Light Orc_57
+  - first:
+      213: -4624345347937020447
+    second: Light Orc_58
+  - first:
+      213: 8297929620230632073
+    second: Light Orc_59
+  - first:
+      213: -5246911947318996805
+    second: Light Orc_60
+  - first:
+      213: -426820097836654860
+    second: Light Orc_61
+  - first:
+      213: -5056175361356584101
+    second: Light Orc_62
+  - first:
+      213: 7992747104846331405
+    second: Light Orc_63
+  - first:
+      213: 6546208628261975573
+    second: Light Orc_64
+  - first:
+      213: -6646759434671845647
+    second: Light Orc_65
+  - first:
+      213: -3997384715841758572
+    second: Light Orc_66
+  - first:
+      213: -4260870443604829741
+    second: Light Orc_67
+  - first:
+      213: 8783563044733928205
+    second: Light Orc_68
+  - first:
+      213: 4246980021371286411
+    second: Light Orc_69
+  - first:
+      213: 2066310548158543590
+    second: Light Orc_70
+  - first:
+      213: 7974232951154414537
+    second: Light Orc_71
+  - first:
+      213: 294900836341254874
+    second: Light Orc_72
+  - first:
+      213: -5089727408029202002
+    second: Light Orc_73
+  - first:
+      213: -6495288431144719701
+    second: Light Orc_74
+  - first:
+      213: -8000394000783007963
+    second: Light Orc_75
+  - first:
+      213: 7940824161751840480
+    second: Light Orc_76
+  - first:
+      213: -1452144241151159891
+    second: Light Orc_77
+  - first:
+      213: 2012031020129937801
+    second: Light Orc_78
+  - first:
+      213: -1517260170164592997
+    second: Light Orc_79
+  - first:
+      213: 3901944378510965214
+    second: Light Orc_80
+  - first:
+      213: -1343721317645807060
+    second: Light Orc_81
+  - first:
+      213: 56670567712140489
+    second: Light Orc_82
+  - first:
+      213: -8817772550042536043
+    second: Light Orc_83
+  - first:
+      213: 2974919247151231102
+    second: Light Orc_84
+  - first:
+      213: -1008646476152251738
+    second: Light Orc_85
+  - first:
+      213: 9185598183542217064
+    second: Light Orc_86
+  - first:
+      213: -6995166013703585654
+    second: Light Orc_87
+  - first:
+      213: -4823334467379084541
+    second: Light Orc_88
+  - first:
+      213: -292301471651887008
+    second: Light Orc_89
+  - first:
+      213: -7882434316984797441
+    second: Light Orc_90
+  - first:
+      213: 1277190618548409354
+    second: Light Orc_91
+  - first:
+      213: -9024478330510726278
+    second: Light Orc_92
+  - first:
+      213: -5429434614863163825
+    second: Light Orc_93
+  - first:
+      213: 3267786354767895258
+    second: Light Orc_94
+  - first:
+      213: 8563268205743044978
+    second: Light Orc_95
+  - first:
+      213: 3471657700229689433
+    second: Light Orc_96
+  - first:
+      213: -6533645454692810258
+    second: Light Orc_97
+  - first:
+      213: 8784027197686360469
+    second: Light Orc_98
+  - first:
+      213: 7998860347415037737
+    second: Light Orc_99
+  - first:
+      213: 7647350349057593075
+    second: Light Orc_100
+  - first:
+      213: -1758173668813025880
+    second: Light Orc_101
+  - first:
+      213: -1939628017784121636
+    second: Light Orc_102
+  - first:
+      213: 626032589403081465
+    second: Light Orc_103
+  - first:
+      213: -7497254413167324700
+    second: Light Orc_104
+  - first:
+      213: 4067899267689285754
+    second: Light Orc_105
+  - first:
+      213: -5258949068179171920
+    second: Light Orc_106
+  - first:
+      213: 7140241536816458685
+    second: Light Orc_107
+  - first:
+      213: -1671852060408163933
+    second: Light Orc_108
+  - first:
+      213: -5811315900880512380
+    second: Light Orc_109
+  - first:
+      213: -8273205417053867961
+    second: Light Orc_110
+  - first:
+      213: -7307996673003004666
+    second: Light Orc_111
+  - first:
+      213: 2728499391999856825
+    second: Light Orc_112
+  - first:
+      213: 5514468388916414850
+    second: Light Orc_113
+  - first:
+      213: 9095193538040719120
+    second: Light Orc_114
+  - first:
+      213: 5231679307300288477
+    second: Light Orc_115
+  - first:
+      213: 6868998270802735511
+    second: Light Orc_116
+  - first:
+      213: 7078151455577292741
+    second: Light Orc_117
+  - first:
+      213: -4372273458531837305
+    second: Light Orc_118
+  - first:
+      213: -2403764188411133951
+    second: Light Orc_119
+  - first:
+      213: 336585980134284068
+    second: Light Orc_120
+  - first:
+      213: 4188436127096617725
+    second: Light Orc_121
+  - first:
+      213: 2378609167879919786
+    second: Light Orc_122
+  - first:
+      213: 880109769941410576
+    second: Light Orc_123
+  - first:
+      213: -1206545983220809970
+    second: Light Orc_124
+  - first:
+      213: -8762919791597897692
+    second: Light Orc_125
+  - first:
+      213: -2308334471105802178
+    second: Light Orc_126
+  - first:
+      213: 5469773245750465169
+    second: Light Orc_127
+  - first:
+      213: 6570705730988907838
+    second: Light Orc_128
+  - first:
+      213: 8038649662460427285
+    second: Light Orc_129
+  - first:
+      213: -7626421100460648887
+    second: Light Orc_130
+  - first:
+      213: 5340018417177491744
+    second: Light Orc_131
+  - first:
+      213: 8954236963826561343
+    second: Light Orc_132
+  - first:
+      213: -4212293891065348240
+    second: Light Orc_133
+  - first:
+      213: 2486264506548889936
+    second: Light Orc_134
+  - first:
+      213: -3076734044557727992
+    second: Light Orc_135
+  - first:
+      213: -909162168346383074
+    second: Light Orc_136
+  - first:
+      213: -5825105596218814944
+    second: Light Orc_137
+  - first:
+      213: -819528689281638745
+    second: Light Orc_138
+  - first:
+      213: -7195148769840810073
+    second: Light Orc_139
+  - first:
+      213: 1038688454208754337
+    second: Light Orc_140
+  - first:
+      213: 434538245991464049
+    second: Light Orc_141
+  - first:
+      213: 4922503197281604262
+    second: Light Orc_142
+  - first:
+      213: -2548709156130573659
+    second: Light Orc_143
+  - first:
+      213: -7404688665445383002
+    second: Light Orc_144
+  - first:
+      213: 1901363836633392161
+    second: Light Orc_145
+  - first:
+      213: -4785211856574046634
+    second: Light Orc_146
+  - first:
+      213: -2699310537979557265
+    second: Light Orc_147
+  - first:
+      213: 6761573015298533083
+    second: Light Orc_148
+  - first:
+      213: -4731868321814547493
+    second: Light Orc_149
+  - first:
+      213: -5157772922453026548
+    second: Light Orc_150
+  - first:
+      213: 6872032169713470451
+    second: Light Orc_151
+  - first:
+      213: 6932198036970850731
+    second: Light Orc_152
+  - first:
+      213: -681426736943607805
+    second: Light Orc_153
+  - first:
+      213: 1553009685072465732
+    second: Light Orc_154
+  - first:
+      213: -8827807475737974179
+    second: Light Orc_155
+  - first:
+      213: 3105273290063495177
+    second: Light Orc_156
+  - first:
+      213: 8461658499428108224
+    second: Light Orc_157
+  - first:
+      213: -7933888694835636594
+    second: Light Orc_158
+  - first:
+      213: 5953961138078044691
+    second: Light Orc_159
+  - first:
+      213: 8534424777764782218
+    second: Light Orc_160
+  - first:
+      213: -6812165696201463423
+    second: Light Orc_161
+  - first:
+      213: -3225106133931838670
+    second: Light Orc_162
+  - first:
+      213: 505428357232884878
+    second: Light Orc_163
+  - first:
+      213: 7533506437655692474
+    second: Light Orc_164
+  - first:
+      213: -7295232794482336680
+    second: Light Orc_165
+  - first:
+      213: 5891464536226453048
+    second: Light Orc_166
+  - first:
+      213: -8076913640579017201
+    second: Light Orc_167
+  - first:
+      213: -8760128141094718428
+    second: Light Orc_168
+  - first:
+      213: -5290482537199579532
+    second: Light Orc_169
+  - first:
+      213: -8791628084244238548
+    second: Light Orc_170
+  - first:
+      213: 5072740299814629469
+    second: Light Orc_171
+  - first:
+      213: -691790052334088545
+    second: Light Orc_172
+  - first:
+      213: 6611802982604348880
+    second: Light Orc_173
+  - first:
+      213: -1183887369878828069
+    second: Light Orc_174
+  - first:
+      213: 1091033924251369179
+    second: Light Orc_175
+  - first:
+      213: -843365555094927928
+    second: Light Orc_176
+  - first:
+      213: 3892298683754584499
+    second: Light Orc_177
+  - first:
+      213: 7341573262328724578
+    second: Light Orc_178
+  - first:
+      213: 7088164340804526170
+    second: Light Orc_179
+  - first:
+      213: 2000737699721927865
+    second: Light Orc_180
+  - first:
+      213: -1474368348063880356
+    second: Light Orc_181
+  - first:
+      213: 3599478890789872482
+    second: Light Orc_182
+  - first:
+      213: 3978215916435608999
+    second: Light Orc_183
+  - first:
+      213: 219035735041546141
+    second: Light Orc_184
+  - first:
+      213: -657194711216437971
+    second: Light Orc_185
+  - first:
+      213: -5431459711649220162
+    second: Light Orc_186
+  - first:
+      213: 8017155077780750198
+    second: Light Orc_187
+  - first:
+      213: -7992037492736020570
+    second: Light Orc_188
+  - first:
+      213: -7648534179746121606
+    second: Light Orc_189
+  - first:
+      213: 5284671715905445333
+    second: Light Orc_190
+  - first:
+      213: -5857124185618217449
+    second: Light Orc_191
+  - first:
+      213: 5337254331364552552
+    second: Light Orc_192
+  - first:
+      213: 6751763151618988526
+    second: Light Orc_193
+  - first:
+      213: 2387703036118009633
+    second: Light Orc_194
+  - first:
+      213: 8498978879566540006
+    second: Light Orc_195
+  - first:
+      213: 444442238764975674
+    second: Light Orc_196
+  - first:
+      213: 6708791665397905491
+    second: Light Orc_197
+  - first:
+      213: 7722839714350101420
+    second: Light Orc_198
+  - first:
+      213: -7403362469407625911
+    second: Light Orc_199
+  - first:
+      213: -8117163163637702874
+    second: Light Orc_200
+  - first:
+      213: -8271940074036927702
+    second: Light Orc_201
+  - first:
+      213: -6332679320270116183
+    second: Light Orc_202
+  - first:
+      213: -2642595202798079682
+    second: Light Orc_203
+  - first:
+      213: 8041385875896569964
+    second: Light Orc_204
+  - first:
+      213: -8388466922535293838
+    second: Light Orc_205
+  - first:
+      213: -8199524190364369506
+    second: Light Orc_206
+  - first:
+      213: -139544352793032314
+    second: Light Orc_207
+  - first:
+      213: -9005573939327531571
+    second: Light Orc_208
+  - first:
+      213: 5933274420229193691
+    second: Light Orc_209
+  - first:
+      213: -7514336322211048081
+    second: Light Orc_210
+  - first:
+      213: 4703164682730606011
+    second: Light Orc_211
+  - first:
+      213: -1273473653381081032
+    second: Light Orc_212
+  - first:
+      213: -6112709540309625810
+    second: Light Orc_213
+  - first:
+      213: -8518921271893488060
+    second: Light Orc_214
+  - first:
+      213: -2812749965376776607
+    second: Light Orc_215
+  - first:
+      213: 8498353537572131426
+    second: Light Orc_216
+  - first:
+      213: -4273781394988456650
+    second: Light Orc_217
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light Orc_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b22403c4bd4d9b0800000000000000
+      internalID: -5056175361356584101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb5ebf421fbee60800000000000000
+      internalID: 7992747104846331405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f629601ec8da50800000000000000
+      internalID: 6546208628261975573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe88ec9287f1c3a0800000000000000
+      internalID: -6646759434671845647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1dada7cf6688c0800000000000000
+      internalID: -3997384715841758572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d919f618e85ed4c0800000000000000
+      internalID: -4260870443604829741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d034d974d0c75e970800000000000000
+      internalID: 8783563044733928205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_69
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833406f3dd40fa30800000000000000
+      internalID: 4246980021371286411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f1aaee720dac10800000000000000
+      internalID: 2066310548158543590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c316c9ae9a2aae60800000000000000
+      internalID: 7974232951154414537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada061a8fb2b71400800000000000000
+      internalID: 294900836341254874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea989d093e7ad59b0800000000000000
+      internalID: -5089727408029202002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2aebd5991cd5a0800000000000000
+      internalID: -6495288431144719701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_75
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f99205b04e8f090800000000000000
+      internalID: -8000394000783007963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6be09b089733e60800000000000000
+      internalID: 7940824161751840480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15e87a182f8dbe0800000000000000
+      internalID: -1452144241151159891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98969e77d8b2ceb10800000000000000
+      internalID: 2012031020129937801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e9d7df9eb91fae0800000000000000
+      internalID: -1517260170164592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed97a762dbd762630800000000000000
+      internalID: 3901944378510965214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221a98b4942a5de0800000000000000
+      internalID: -1343721317645807060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca3b1c49559c000800000000000000
+      internalID: 56670567712140489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973684959af0a580800000000000000
+      internalID: -8817772550042536043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70fbe12b49094920800000000000000
+      internalID: 2974919247151231102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aadefcbf519002f0800000000000000
+      internalID: -1008646476152251738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d18b61ecc97f70800000000000000
+      internalID: 9185598183542217064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800050929d2cee90800000000000000
+      internalID: -6995166013703585654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c8f66bd2101db0800000000000000
+      internalID: -4823334467379084541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688dd63c5981fbf0800000000000000
+      internalID: -292301471651887008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b5ca60c7fb9290800000000000000
+      internalID: -7882434316984797441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041a09c91e79b110800000000000000
+      internalID: 1277190618548409354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba2baa5cc92c280800000000000000
+      internalID: -9024478330510726278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_93
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0fd1fbf5c6a4b0800000000000000
+      internalID: -5429434614863163825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1fcd4062895d20800000000000000
+      internalID: 3267786354767895258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_95
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279f5bf1017d6d670800000000000000
+      internalID: 8563268205743044978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b0f3e84ecd2030800000000000000
+      internalID: 3471657700229689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_97
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee180b06314d355a0800000000000000
+      internalID: -6533645454692810258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb0d48a5bcf19fe0800000000000000
+      internalID: -1183887369878828069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 767
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde37e4d291242f00800000000000000
+      internalID: 1091033924251369179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c544c8fe73cb44f0800000000000000
+      internalID: -843365555094927928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 767
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b999e4d709340630800000000000000
+      internalID: 3892298683754584499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_178
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 767
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfb991cf182e560800000000000000
+      internalID: 7341573262328724578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_179
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ae3bc9e73e5260800000000000000
+      internalID: 7088164340804526170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a513fa6c46753730800000000000000
+      internalID: 3978215916435608999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97944c27db2a0300800000000000000
+      internalID: 219035735041546141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25cda164ec21e6f0800000000000000
+      internalID: -657194711216437971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97d4b5b249f94b0800000000000000
+      internalID: -5431459711649220162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_187
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f37580118a24f60800000000000000
+      internalID: 8017155077780750198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_189
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787ccbefa2fad590800000000000000
+      internalID: -7648534179746121606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_191
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71680e6e59057bea0800000000000000
+      internalID: -5857124185618217449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f26e0598cb11a40800000000000000
+      internalID: 5337254331364552552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_193
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee952d360d413bd50800000000000000
+      internalID: 6751763151618988526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_194
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1278fe0c243d22120800000000000000
+      internalID: 2387703036118009633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_196
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 448
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3604c48cd9fa2600800000000000000
+      internalID: 444442238764975674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_198
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 448
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3fd178dc90d2b60800000000000000
+      internalID: 7722839714350101420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_201
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e5bb445a243d80800000000000000
+      internalID: -8271940074036927702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa66dec5bdcd18a0800000000000000
+      internalID: -6332679320270116183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_203
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b1140aad935bd0800000000000000
+      internalID: -2642595202798079682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6098aa59ddb89f60800000000000000
+      internalID: 8041385875896569964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_205
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 254
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6b2827cd269b80800000000000000
+      internalID: -8388466922535293838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_207
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6890c55862d301ef0800000000000000
+      internalID: -139544352793032314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f659bc77de6b7b790800000000000000
+      internalID: -7514336322211048081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd025a4c5ff44140800000000000000
+      internalID: 4703164682730606011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_212
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d66b9576b35ee0800000000000000
+      internalID: -1273473653381081032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2414b24f0b4b2ba0800000000000000
+      internalID: -6112709540309625810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_214
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e05470d36b6c980800000000000000
+      internalID: -8518921271893488060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Orc_216
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262dba6248730f570800000000000000
+      internalID: 8498353537572131426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
