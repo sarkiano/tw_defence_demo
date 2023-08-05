@@ -1,0 +1,925 @@
+fileFormatVersion: 2
+guid: e847c236f1ef402489aa50e63456fe2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1540895242247197562
+    second: flying_orc_0
+  - first:
+      213: 770277149760175637
+    second: flying_orc_1
+  - first:
+      213: -611346094477729019
+    second: flying_orc_2
+  - first:
+      213: -7682132853438769436
+    second: flying_orc_3
+  - first:
+      213: 7231983398383752461
+    second: flying_orc_4
+  - first:
+      213: -3278979955911857652
+    second: flying_orc_5
+  - first:
+      213: -3126479507786246901
+    second: flying_orc_6
+  - first:
+      213: -581602213136564148
+    second: flying_orc_7
+  - first:
+      213: 1032713857351179098
+    second: flying_orc_8
+  - first:
+      213: -2688538512987792446
+    second: flying_orc_9
+  - first:
+      213: -691849152496209334
+    second: flying_orc_10
+  - first:
+      213: 6480609717100830362
+    second: flying_orc_11
+  - first:
+      213: -4494312243774120888
+    second: flying_orc_12
+  - first:
+      213: 8187222512213408339
+    second: flying_orc_13
+  - first:
+      213: 5669757382772687256
+    second: flying_orc_14
+  - first:
+      213: -3829701415639778270
+    second: flying_orc_15
+  - first:
+      213: -309471650142990889
+    second: flying_orc_16
+  - first:
+      213: -4224271839332151137
+    second: flying_orc_17
+  - first:
+      213: 3086854936848894789
+    second: flying_orc_18
+  - first:
+      213: 4012140988123107613
+    second: flying_orc_19
+  - first:
+      213: 1453382052084506065
+    second: flying_orc_20
+  - first:
+      213: 6764553322358975015
+    second: flying_orc_21
+  - first:
+      213: 6668314957644105573
+    second: flying_orc_22
+  - first:
+      213: 2527331134500236118
+    second: flying_orc_23
+  - first:
+      213: 6407116545037691260
+    second: flying_orc_24
+  - first:
+      213: 165112593800225150
+    second: flying_orc_25
+  - first:
+      213: 634423665765013794
+    second: flying_orc_26
+  - first:
+      213: 6019984004849175640
+    second: flying_orc_27
+  - first:
+      213: -4499838285458290659
+    second: flying_orc_28
+  - first:
+      213: -258654778871007313
+    second: flying_orc_29
+  - first:
+      213: 1549818355866994717
+    second: flying_orc_30
+  - first:
+      213: 7478649151300321825
+    second: flying_orc_31
+  - first:
+      213: 1905988418062652882
+    second: flying_orc_32
+  - first:
+      213: 5476602938841665907
+    second: flying_orc_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying_orc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c24c1f0f3ad9ae0800000000000000
+      internalID: -1540895242247197562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e3e029cf290ba00800000000000000
+      internalID: 770277149760175637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1680
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50325d357ff0487f0800000000000000
+      internalID: -611346094477729019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1680
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69c691fd4936590800000000000000
+      internalID: -7682132853438769436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1680
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d059f2a859a2d5460800000000000000
+      internalID: 7231983398383752461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6f365a19be72d0800000000000000
+      internalID: -3278979955911857652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dcd4d3738c94d0800000000000000
+      internalID: -3126479507786246901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1400
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400a6d5edbbde7f0800000000000000
+      internalID: -581602213136564148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1400
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5a0e18cfe45e00800000000000000
+      internalID: 1032713857351179098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1400
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbd768877460bad0800000000000000
+      internalID: -2688538512987792446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42fe438cde0666f0800000000000000
+      internalID: -691849152496209334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1120
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5db3b330cfe950800000000000000
+      internalID: 6480609717100830362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c972083def0a1c0800000000000000
+      internalID: -4494312243774120888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1120
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35abf814f7bde9170800000000000000
+      internalID: 8187222512213408339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1120
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89180dacc460fae40800000000000000
+      internalID: 5669757382772687256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cfaf46ada2adac0800000000000000
+      internalID: -3829701415639778270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd4c218c2984bbf0800000000000000
+      internalID: -309471650142990889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90dbeda42f5065c0800000000000000
+      internalID: -4224271839332151137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 840
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0a00d536b6da20800000000000000
+      internalID: 3086854936848894789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 840
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11dcd1b8fcfda730800000000000000
+      internalID: 4012140988123107613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddc69a6437b2410800000000000000
+      internalID: 1453382052084506065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2563186580ed50800000000000000
+      internalID: 6764553322358975015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670dccaf1d9a8c50800000000000000
+      internalID: 6668314957644105573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 560
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65beba5c642e21320800000000000000
+      internalID: 2527331134500236118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 560
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ef752d86aae850800000000000000
+      internalID: 6407116545037691260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e76d77099a4200800000000000000
+      internalID: 165112593800225150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229560376fcedc800800000000000000
+      internalID: 634423665765013794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 280
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8192ae874b8350800000000000000
+      internalID: 6019984004849175640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 280
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d184e88abec5d81c0800000000000000
+      internalID: -4499838285458290659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 280
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7bfe959d2196cf0800000000000000
+      internalID: -258654778871007313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1805d7559f028510800000000000000
+      internalID: 1549818355866994717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122480f87cf79c760800000000000000
+      internalID: 7478649151300321825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d512ac2e5e637a10800000000000000
+      internalID: 1905988418062652882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying_orc_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37194894b5dc00c40800000000000000
+      internalID: 5476602938841665907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
