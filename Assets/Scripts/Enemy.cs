@@ -1,100 +1,76 @@
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
-{
-    public float Speed { get; set; }
-    public float Health { get; set; }
-    public float Damage { get; set; }
-    public float Gold { get; set; }
-    public int Id { get; set; }
-    public int TargetIndex { get; set; }
+public class Enemy : MonoBehaviour {
+  public int Id { get; set; }
+  public float Health { get; set; }
+  public float Speed { get; set; }
+  public float Damage { get; set; }
+  public float Gold { get; set; }
+  public string EnemyType { get; set; }
+  public int TargetIndex { get; set; }
 
-    [SerializeField] private Animator animator;
+    public EnemyAnimationHandler enemyAnimator;
 
-    private Transform target;
+    public Transform target;
     private Vector3 nextFlagDirection;
     private bool reachedEnd = false;
 
-    private void Start()
-    {
-        GM.createdEnemies.Add(gameObject);
-        target = GM.flags[TargetIndex].transform;
-        InvokeRepeating(nameof(FindNextTarget), .5f, .1f);
-    }
-
-    private void Update()
-    {
-        nextFlagDirection = target.position - transform.position;
-    }
-
-    private void FixedUpdate()
-    {
-        if (!reachedEnd)
-        {
-            transform.Translate(Speed * Time.fixedDeltaTime * nextFlagDirection.normalized, Space.World);
-            WalkAnimation(nextFlagDirection);
+    public void FixedUpdate() {
+        if (Health <= 0) {
+            Kill();
+            return;
         }
-        else
-        {
+        nextFlagDirection = target.position - transform.position;
+
+        if (!reachedEnd) {
+            Move();
+        }
+        else {
             DoDamage();
         }
     }
 
-    private void LateUpdate()
-    {
-        if (Health <= 0)
-        {
-            Destroy(gameObject);
-            GM.waveEnemiesKilled += 1;
-            GM.totalEnemiesKilled += 1;
-            GM.money += Gold;
-        }
+    public void CleanseEnemy() {
+        GM.createdEnemies++;
+        reachedEnd = false;
+        target = GM.flags[TargetIndex].transform;
+        nextFlagDirection = target.position - transform.position;
+        enemyAnimator.CleanseAnimation();
+        InvokeRepeating(nameof(FindNextTarget), .0f, .1f);
     }
-    private void FindNextTarget()
-    {
-        if (nextFlagDirection.magnitude <= Random.Range(0.3f, 0.7f))
-        {
+
+    public void Move() {
+        transform.Translate(Speed * Time.fixedDeltaTime * nextFlagDirection.normalized, Space.World);
+        enemyAnimator.PlayMoveAnimation(nextFlagDirection);
+    }
+
+    public void Kill() {
+        //Destroy(gameObject);
+        CancelInvoke(nameof(FindNextTarget));
+        GM.waveEnemiesKilled += 1;
+        GM.totalEnemiesKilled += 1;
+        GM.money += Gold;
+        gameObject.SetActive(false);
+    }
+
+
+    public void FindNextTarget() {
+        if (nextFlagDirection.magnitude <= Random.Range(0.3f, 0.7f)) {
             TargetIndex++;
 
-            try
-            {
+            try {
                 target = GM.flags[TargetIndex].transform;
             }
-            catch
-            {
+            catch {
                 // Enemy reached the end of road
-                CancelInvoke();
+                CancelInvoke(nameof(FindNextTarget));
                 reachedEnd = true;
-
-                // Stop other movement animation
-                animator.SetInteger("direction", -1);
             }
         }
     }
 
-    private void WalkAnimation(Vector3 direction)
-    {
-        if (direction.x >= 0.8f)
-        {
-            animator.SetInteger("direction", 1);
-        }
-        else if (direction.x <= -0.8f)
-        {
-            animator.SetInteger("direction", 3);
-        }
-        else if (direction.y >= 0.8f)
-        {
-            animator.SetInteger("direction", 2);
-        }
-        else if (direction.y <= -0.8f)
-        {
-            animator.SetInteger("direction", 0);
-        }
-    }
-
-    private void DoDamage()
-    {
-        animator.SetBool("attack", true);
+    public void DoDamage() {
+        enemyAnimator.PlayAttackAnimation();
         GM.castleHealth -= Damage;
     }
 }
