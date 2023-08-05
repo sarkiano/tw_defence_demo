@@ -4805,6 +4805,10 @@ PrefabInstance:
       value: Tower_level_1 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 850587619362399202, guid: b9006a6088bd2bf4da16bde05301f576, type: 3}
+      propertyPath: fireRate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 850587619362399202, guid: b9006a6088bd2bf4da16bde05301f576, type: 3}
       propertyPath: firePoint
       value: 
       objectReference: {fileID: 1434640360}
@@ -5422,6 +5426,10 @@ PrefabInstance:
     - target: {fileID: 129375442991394470, guid: b9006a6088bd2bf4da16bde05301f576, type: 3}
       propertyPath: m_Name
       value: Tower_level_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 850587619362399202, guid: b9006a6088bd2bf4da16bde05301f576, type: 3}
+      propertyPath: fireRate
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 850587619362399202, guid: b9006a6088bd2bf4da16bde05301f576, type: 3}
       propertyPath: firePoint
@@ -6726,7 +6734,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 21300000, guid: 6c61c53aad9f1534881b3472d7dfe1e2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7183,6 +7191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1761559383}
   - component: {fileID: 1761559382}
+  - component: {fileID: 1761559384}
   m_Layer: 0
   m_Name: GM
   m_TagString: Untagged
@@ -7202,7 +7211,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 640c7fc7075e73847a0512116f18ae62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemy: {fileID: 7306141671385603235, guid: 6ae72bf0132f7d64ea72bd089eb53d60, type: 3}
   enemyRespawnInterval: 1
   waveRespawnInterval: 1
 --- !u!4 &1761559383
@@ -7219,6 +7227,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1761559384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761559381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7dce438ab5d75004dbb239b9f853becf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectsToPool:
+  - obj: {fileID: 5307870249586505466, guid: 6ae72bf0132f7d64ea72bd089eb53d60, type: 3}
+    count: 50
+  - obj: {fileID: 4094752136567958614, guid: ec470ade013a6284294d78f21c4e413f, type: 3}
+    count: 20
+  - obj: {fileID: 649998156610715511, guid: f30e6f6fd4218694caf470b5befda6b6, type: 3}
+    count: 20
 --- !u!1 &1781634066
 GameObject:
   m_ObjectHideFlags: 0
