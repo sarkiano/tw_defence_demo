@@ -1,0 +1,4 @@
+public enum ProjectileTypesEnum
+{
+    SMALLBULLET,
+}
